@@ -1,7 +1,19 @@
 # Ignore everything
 *
 
-# But NOT these:
-!.gitignore
-!*.ipynb
+# Allow README
+!README.md
+
+# Allow this notebook
+!/mnt/home3/miska/nm667/scratch/inProgress/dev/scripts/hanifa/01_analysis_from_hanifa.ipynb
+
+# Allow folder structure above notebook
+!/mnt/
+!/mnt/home3/
+!/mnt/home3/miska/
+!/mnt/home3/miska/nm667/
+!/mnt/home3/miska/nm667/scratch/
+!/mnt/home3/miska/nm667/scratch/inProgress/
+!/mnt/home3/miska/nm667/scratch/inProgress/dev/
+!/mnt/home3/miska/nm667/scratch/inProgress/dev/scripts/
 !/mnt/home3/miska/nm667/scratch/inProgress/dev/scripts/hanifa/
