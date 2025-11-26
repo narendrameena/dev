@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But NOT these:
+!.gitignore
+!*.ipynb
