@@ -4,3 +4,4 @@
 # But NOT these:
 !.gitignore
 !*.ipynb
+!/mnt/home3/miska/nm667/scratch/inProgress/dev/scripts/hanifa/
