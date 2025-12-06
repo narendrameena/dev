@@ -6,6 +6,9 @@
 
 # Allow all notebooks in scripts/hanifa/
 !scripts/hanifa/*.ipynb
+!scripts/Kidney_SC/*.ipynb
+!scripts/hanifa and Pysrosis/*.ipynb
+!scripts/Kidney_ST/*.ipynb
 
 # Allow README
 !README.md
