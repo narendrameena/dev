@@ -9,6 +9,7 @@
 !scripts/Kidney_SC/*.ipynb
 !scripts/hanifa and Pysrosis/*.ipynb
 !scripts/Kidney_ST/*.ipynb
+!scripts/Kidney_image_ST/*.ipynb
 
 # Allow README
 !README.md
