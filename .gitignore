@@ -13,3 +13,15 @@
 
 # Allow README
 !README.md
+
+# Figure set: analysis scripts, rendered figures and the source data behind
+# every panel. Deliberately excludes Figures/source_data/derived/ (large,
+# regenerable by 00_extract_panel.py) and the refGene annotation (downloadable).
+!Figures/scripts/*.py
+!Figures/figures/*.png
+!Figures/figures/*.pdf
+!Figures/figures/*.svg
+!Figures/figures/*.txt
+!Figures/source_data/*.csv
+Figures/source_data/derived/
+Figures/source_data/*.gz
